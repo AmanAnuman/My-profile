@@ -8,6 +8,7 @@
 
 body {
     color: #ededed;
+       background-color:rgba(2, 2, 32, 0.911);
 }
 
 header {
@@ -16,13 +17,13 @@ header {
     left:0;
     width:100%;
     padding: 20px 10px;
-    background-color: transparent;
+    background-color: #000;
     justify-content: space-between;
     align-items: center;
     z-index: 100;
 }
 
-.player {
+.playerr {
     position: fixed;
     top: 0;
     left: 0;
